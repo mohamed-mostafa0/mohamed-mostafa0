@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**mohamed-mostafa0/mohamed-mostafa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I’m mohamed mostafa
 
-Here are some ideas to get you started:
+Full-Stack Developer (frontend-focused) who enjoys building clean, responsive, and interactive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the stack — crafting user interfaces on the frontend and building APIs and application logic on the backend.
+
+---
+
+## Tech Stack
+
+### Frontend
+- HTML, CSS  
+- JavaScript, TypeScript  
+- React  
+- Tailwind CSS  
+- Framer Motion
+
+### Backend
+- Node.js  
+- Express  
+- NestJS  
+- REST APIs
+- MySQL  
+- MongoDB 
+
+### Tools
+- Git & GitHub  
+- Figma  
+- Postman
+
+---
+
+## Currently
+- TypeScript (advanced usage)
+- Next.js
+- Building full-stack projects with React and Node/Nest  
+- Improving frontend architecture and UI animations  
+- Strengthening backend patterns and best practices
+
+---
+
+## Projects
+This GitHub contains backend and frontend projects, focusing on clean code and real-world use cases.
+
+
+
